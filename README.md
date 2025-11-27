@@ -31,11 +31,3 @@
 📧 **Email:** [nafisaryadi907gmail.com](mailto:nafisaryadi907gmail.com)
 
 </div>
-
----
-⭐️ From [M. Izdiar Alnafisi Aryadi](https://github.com/NafisAryadi)
-
-<!-- Profile views counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/NafisAryadi/count.svg" alt="Visitor Count" />
-</div>
